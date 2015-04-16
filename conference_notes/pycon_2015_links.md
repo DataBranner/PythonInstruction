@@ -53,7 +53,7 @@ I took detailed notes only on the four tutorials, but I think the content in the
  * [Stuart Williams — Python Epiphanies](https://www.youtube.com/watch?v=Ug0iDjbMPVg) (tutorial)
  * [Stuart Williams — Python by Immersion](https://www.youtube.com/watch?v=RVNIdoepdzU) (tutorial)
  * [Raymond Hettinger — Beyond PEP 8: Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
- * [Ned Batchelder — Facts and Myths about Python names and values](https://www.youtube.com/watch?v=_AEJHKGk9ns)
+ * [Ned Batchelder — Facts and Myths about Python names and values](https://www.youtube.com/watch?v=_AEJHKGk9ns): "Names have no value; values have no scope."
 
 ### Self-development for coders
 
@@ -69,9 +69,9 @@ I took detailed notes only on the four tutorials, but I think the content in the
 ## Inspiring Pythonist speakers
  
  * [Brandon Rhodes — Oh, Come On Who Needs Bytearrays](https://www.youtube.com/watch?v=z9Hmys8ojno)
- * [David Beazley — Modules and Packages: Live and Let Die!](https://www.youtube.com/watch?v=0oTh1CXRaQ0)
+ * [David Beazley — Modules and Packages: Live and Let Die!](https://www.youtube.com/watch?v=0oTh1CXRaQ0) (tutorial)
  * [David Beazley — Python Concurrency From the Ground Up: LIVE!](https://www.youtube.com/watch?v=MCs5OvhV9S4)
- * [Raymond Hettinger — Super considered super!](https://www.youtube.com/watch?v=EiOglTERPEo)
+ * [Raymond Hettinger — Super considered super!](https://www.youtube.com/watch?v=EiOglTERPEo): "Live demo of people as classes."
 
 ### Other miscellaneous topics of interest
 
