@@ -50,7 +50,7 @@ I took detailed notes only on the four tutorials, but I think the content in the
 ### Python education and best practices
 
  * [Amy Hanlon — Investigating Python Wats](https://www.youtube.com/watch?v=sH4XF6pKKmk)
- * [Stuart Williams — Python Epiphanies](https://www.youtube.com/watch?v=Ug0iDjbMPVg)
+ * [Stuart Williams — Python Epiphanies](https://www.youtube.com/watch?v=Ug0iDjbMPVg) (tutorial)
  * [Stuart Williams — Python by Immersion](https://www.youtube.com/watch?v=RVNIdoepdzU) (tutorial)
  * [Raymond Hettinger — Beyond PEP 8: Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
  * [Ned Batchelder — Facts and Myths about Python names and values](https://www.youtube.com/watch?v=_AEJHKGk9ns)
