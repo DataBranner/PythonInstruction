@@ -14,7 +14,7 @@ I attended the two tutorials on Scikit-Learn, the one on Pyspark, and the one on
  
 I prepared my own Vagrantfiles for use with Pyspark and Kivy, and shared them with the instructors.
 
- * The Pyspark Vagrantfile turned out to work perfectly, and it was a real education to construct. My sense is that Pyspark may be useful if one absolutely has to use Spark within Python, but for many purposes where parallelism is not required, Scikit-Learn or Pandas would be better tools. Pyspark is kind of clunky.
+ * The Pyspark Vagrantfile turned out to work perfectly, and it was a real education to construct. My sense is that Pyspark may be useful if one absolutely has to use Spark within Python, but for many purposes where parallelism is not required, Scikit-Learn or Pandas would be better tools. Pyspark is kind of clunky and unPythonic.
  * The Kivy Vagrantfile worked correctly until I realized that it would not be easy to display the graphical output, since X11-forwarding is hard to get working with VirtualBox and X11/Quartz on OS X. Kivy, in addition, seems to require so many dependencies, and their relationships are so brittle, that I think it would be hard to develop for it regularly. Though, of course, if one uses it regularly, configuring the environment probably becomes second-nature.
 
 ---
@@ -71,7 +71,7 @@ I took detailed notes only on the four tutorials, but I think the content in the
  * [Brandon Rhodes — Oh, Come On Who Needs Bytearrays](https://www.youtube.com/watch?v=z9Hmys8ojno)
  * [David Beazley — Modules and Packages: Live and Let Die!](https://www.youtube.com/watch?v=0oTh1CXRaQ0) (tutorial)
  * [David Beazley — Python Concurrency From the Ground Up: LIVE!](https://www.youtube.com/watch?v=MCs5OvhV9S4)
- * [Raymond Hettinger — Super considered super!](https://www.youtube.com/watch?v=EiOglTERPEo): "Live demo of people as classes."
+ * [Raymond Hettinger — Super considered super!](https://www.youtube.com/watch?v=EiOglTERPEo): "Dependency injection."
 
 ### Other miscellaneous topics of interest
 
