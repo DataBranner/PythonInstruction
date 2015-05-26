@@ -62,6 +62,12 @@ I took detailed notes only on the four tutorials, but I think the content in the
  
    > "When you're not engaged in one of these hideously complex debugging sessions, you should always be doing constant clean-up of your code-base. When you're actually in the thick of it, you don't don't want to be distracted by random broken things that are not the broken thing you're looking for. Complex system failures are almost never caused by a single thing being broken. They're caused by a series of smaller, interconnected failures. If you fix the small failures early, you can avoid [their interactions] with other things being large and complex."
 
+   Other concrete recommendations, other than various sys calls:
+   
+   2. Keep a lab notebook. I.e., record everything you try and what happens.
+   2. Practice pair debugging. Discuss what each party thinks is happening; often some reconciliation is needed, and that can point the way to successful debugging.
+   2. Practice mminimization of code. The goal is to have as few moving parts as possible, so as to reduce the number of interactions between elements.
+
 ### Python internals
 
  * [Allison Kaptur — Bytes in the Machine: Inside the CPython interpreter](https://www.youtube.com/watch?v=HVUTjQzESeo)
