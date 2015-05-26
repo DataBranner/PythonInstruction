@@ -59,6 +59,8 @@ I took detailed notes only on the four tutorials, but I think the content in the
 
  * [Sasha Laundy — Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s)
  * [Alex Gaynor — Techniques for Debugging Hard Problems](https://www.youtube.com/watch?v=ij99SGGEX34)
+ 
+   > "When you're not engaged in one of these hideously complex debugging sessions, you should always be doing constant clean-up of your code-base. When you're actually in the thick of it, you don't don't want to be distracted by random broken things that are not the broken thing you're looking for. Complex system failures are almost never caused by a single thing being broken. They're caused by a series of smaller, interconnected failures. If you fix the small failures early, you can avoid [their interactions] with other things being large and complex."
 
 ### Python internals
 
